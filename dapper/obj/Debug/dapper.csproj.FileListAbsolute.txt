@@ -1,0 +1,26 @@
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\bin\Debug\dapper.exe.config
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\bin\Debug\dapper.exe
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\bin\Debug\dapper.pdb
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\bin\Debug\MySql.Data.dll
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\bin\Debug\Google.Protobuf.dll
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\bin\Debug\Renci.SshNet.dll
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\bin\Debug\MySql.Data.xml
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\obj\Debug\dapper.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\obj\Debug\dapper.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\obj\Debug\dapper.csproj.CopyComplete
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\obj\Debug\dapper.exe
+C:\Users\админ\Desktop\штуки\Санжиев В. А. 05370\my_projects\dapper\dapper\obj\Debug\dapper.pdb
+C:\Users\админ\Desktop\dapper\dapper\bin\Debug\dapper.exe.config
+C:\Users\админ\Desktop\dapper\dapper\bin\Debug\dapper.exe
+C:\Users\админ\Desktop\dapper\dapper\bin\Debug\dapper.pdb
+C:\Users\админ\Desktop\dapper\dapper\bin\Debug\MySql.Data.dll
+C:\Users\админ\Desktop\dapper\dapper\bin\Debug\Google.Protobuf.dll
+C:\Users\админ\Desktop\dapper\dapper\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\админ\Desktop\dapper\dapper\bin\Debug\Renci.SshNet.dll
+C:\Users\админ\Desktop\dapper\dapper\bin\Debug\MySql.Data.xml
+C:\Users\админ\Desktop\dapper\dapper\obj\Debug\dapper.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\dapper\dapper\obj\Debug\dapper.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\dapper\dapper\obj\Debug\dapper.csproj.CopyComplete
+C:\Users\админ\Desktop\dapper\dapper\obj\Debug\dapper.exe
+C:\Users\админ\Desktop\dapper\dapper\obj\Debug\dapper.pdb
